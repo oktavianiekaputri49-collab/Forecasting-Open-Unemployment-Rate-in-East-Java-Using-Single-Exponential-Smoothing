@@ -1,0 +1,63 @@
+📈 East Java TPT Forecasting Using SES in Excel
+Project Overview:
+This project analyzes and forecasts the Open Unemployment Rate (TPT) of regencies and cities in East Java using the Single Exponential Smoothing (SES) method in Microsoft Excel.
+The analysis is based on TPT data from 2023–2025 obtained from BPS East Java. The SES method with a smoothing constant (α) of 0.5 is applied to identify trends and generate forecasts for 2026.
+
+Objectives:
+Analyze unemployment rate trends in East Java.
+Apply Single Exponential Smoothing (SES) for time series forecasting.
+Generate TPT forecasts for 2026.
+Demonstrate data analysis and forecasting skills using Microsoft Excel.
+
+Dataset:
+Source: BPS East Java
+Period: 2023–2025
+
+Variables:
+Regency/City
+TPT 2023
+TPT 2024
+TPT 2025
+SES Results
+Forecast 2026
+
+Tools Used:
+Microsoft Excel
+Data Cleaning
+Time Series Forecasting
+Single Exponential Smoothing (SES)
+
+Method
+Single Exponential Smoothing (SES) is calculated using:
+St=αXt+(1−α)St−1
+Where:
+St = Smoothed value
+Xt = Actual value
+α = Smoothing constant (0.5)
+Results
+The forecasting results provide estimated TPT values for 2026 across regencies and cities in East Java.
+
+Key outcomes:
+Identification of unemployment trends.
+Smoothed TPT values for each region.
+Forecasted TPT values for 2026.
+
+Skills Demonstrated:
+Data Analysis
+Time Series Forecasting
+Statistical Methods
+Microsoft Excel
+Data Visualization
+
+Project Structure:
+East-Java-TPT-Forecasting-SES
+Data_TPT_Jatim.xlsx
+Forecast_TPT_2026.xlsx
+Visualization.png
+README.md
+
+Author:
+Oktaviani Eka Putri
+Statistics Undergraduate Student
+
+#Excel #DataAnalysis #Statistics #Forecasting #TimeSeries #SES #EastJava #DataAnalytics #BPS
